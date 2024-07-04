@@ -6,10 +6,10 @@
 
 - 📫 How to reach me **abhisekrao1608@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
-<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="left" height="50" width="50"/>
+<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" />
 <h3 align="left">Languages and Tools:</h3>
 
 
