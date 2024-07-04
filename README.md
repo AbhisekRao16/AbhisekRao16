@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="left">A passionate developer from India interested in building innovative projects</h3>
 
 - 👯 I’m looking to collaborate on **projects on  AI/ML,java and springboot**
 
@@ -9,7 +9,7 @@
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
-<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="600" width="600"/>
+<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="100" width="100"/>
 <h3 align="left">Languages and Tools:</h3>
 
 
