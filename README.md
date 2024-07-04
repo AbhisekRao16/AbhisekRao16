@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 👯 I’m looking to collaborate on **projects on java and springboot and AI/ML**
+- 👯 I’m looking to collaborate on **projects on  AI/ML,java and springboot**
 
 - 📫 How to reach me **abhisekrao1608@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
-<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" />
+<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="60" width="60"/>
 <h3 align="left">Languages and Tools:</h3>
 
 
