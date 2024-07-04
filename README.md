@@ -9,7 +9,7 @@
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
-<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="60" width="60"/>
+<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="600" width="600"/>
 <h3 align="left">Languages and Tools:</h3>
 
 
