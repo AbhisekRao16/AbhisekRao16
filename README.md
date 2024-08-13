@@ -10,7 +10,7 @@
 <p align="left">
 </p>
 <img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="250" width="300"/>
-<img src="[https://images.app.goo.gl/PozRWA3w5EmqKodU7" align="left](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" height="250" width="300" alttext="binod"/>
+<img src="[[https://images.app.goo.gl/PozRWA3w5EmqKodU7" align="left](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" height="250" width="300" />
 <h3 align="left">Languages and Tools:</h3>
 
 
