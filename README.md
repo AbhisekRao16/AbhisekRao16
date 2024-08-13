@@ -10,6 +10,7 @@
 <p align="left">
 </p>
 <img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="250" width="300"/>
+<img src="https://images.app.goo.gl/PozRWA3w5EmqKodU7" align="left" height="250" width="300" alttext="binod"/>
 <h3 align="left">Languages and Tools:</h3>
 
 
