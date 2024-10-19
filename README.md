@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="left">A passionate developer from India interested in building innovative projects</h3>
+<h3 align="left">A passionate techie from India interested in building innovative projects</h3>
 
-- 👯 I’m looking to collaborate on **projects in  AI/ML,java and springboot**
+- 👯 I’m looking to collaborate on **projects related to AI/ML and springboot**
 
 - 📫 How to reach me **abhisekrao1608@gmail.com**
 
