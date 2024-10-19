@@ -10,8 +10,8 @@
 <p align="left">
 </p>
 <img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="250" width="300"/>
-<img src ="https://www.bing.com/th/id/OGC.28020003d4a493c78d8202ba6c35f179?pid=1.7&rurl=https%3a%2f%2fblog.rapidapi.com%2fwp-content%2fuploads%2f2017%2f01%2foctocat.gif&ehk=%2b0MruEA8IEXtuLk4v%2b0unPfQ4MdqO7DjSqyfoZsq%2f8c%3d" height ="200" width ="120"> 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="300" />
+<img src ="https://www.bing.com/th/id/OGC.28020003d4a493c78d8202ba6c35f179?pid=1.7&rurl=https%3a%2f%2fblog.rapidapi.com%2fwp-content%2fuploads%2f2017%2f01%2foctocat.gif&ehk=%2b0MruEA8IEXtuLk4v%2b0unPfQ4MdqO7DjSqyfoZsq%2f8c%3d" height ="200" width ="120"> 
 <h3 align="left">Languages and Tools:</h3>
 
 
